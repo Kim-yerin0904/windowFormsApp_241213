@@ -36,7 +36,7 @@
             this.textBox_print.Location = new System.Drawing.Point(12, 12);
             this.textBox_print.Multiline = true;
             this.textBox_print.Name = "textBox_print";
-            this.textBox_print.Size = new System.Drawing.Size(468, 352);
+            this.textBox_print.Size = new System.Drawing.Size(615, 348);
             this.textBox_print.TabIndex = 0;
             this.textBox_print.TextChanged += new System.EventHandler(this.textBox_print_TextChanged);
             // 
